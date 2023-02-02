@@ -1,0 +1,36 @@
+{  "values": [
+    {
+      "id": 1,
+      "type": "dinamic",
+      "name": "Juego 1",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "Fatty"
+    },
+    {
+      "id": 2,
+      "type": "dinamic",
+      "name": "Juego 2",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "Fatty"
+    },
+    {
+      "id": 3,
+      "type": "memory",
+      "name": "Juego 3",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    },
+    {
+      "id": 4,
+      "type": "static",
+      "name": "Juego 4",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    }
+  ],
+  "total": 4
+}

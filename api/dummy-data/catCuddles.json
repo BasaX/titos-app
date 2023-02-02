@@ -1,0 +1,37 @@
+{
+  "values": [
+    {
+      "id": 1,
+      "type": "",
+      "name": "Mimos 1",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 2,
+      "type": "",
+      "name": "Mimos 2",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 3,
+      "type": "",
+      "name": "Mimos 3",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 4,
+      "type": "",
+      "name": "Mimos 4",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    }
+  ],
+  "total": 4
+}

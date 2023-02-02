@@ -1,0 +1,37 @@
+{
+  "values": [
+    {
+      "id": 1,
+      "type": "dry",
+      "name": "Alimento seco 1",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Royal Canin",
+      "diet": "Indoor"
+    },
+    {
+      "id": 2,
+      "type": "dry",
+      "name": "Alimento seco 2",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Royal Canin",
+      "diet": "Indoor"
+    },
+    {
+      "id": 3,
+      "type": "weat",
+      "name": "Alimento humedo 1",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    },
+    {
+      "id": 4,
+      "type": "weat",
+      "name": "Alimento humedo 2",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    }
+  ],
+  "total": 4
+}

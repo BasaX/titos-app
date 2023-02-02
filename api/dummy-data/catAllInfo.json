@@ -1,0 +1,169 @@
+{  "Juego": [
+    {
+      "id": 1,
+      "type": "Dinamico",
+      "name": "Juego 1",
+      "image": "https://cdn.pixabay.com/photo/2017/03/01/17/31/cat-2109166_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "Fatty"
+    },
+    {
+      "id": 2,
+      "type": "Dinamico",
+      "name": "Juego 2",
+      "image": "https://cdn.pixabay.com/photo/2017/06/06/20/14/cat-2378311_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "Fatty"
+    },
+    {
+      "id": 3,
+      "type": "Memoria",
+      "name": "Juego 3",
+      "image": "https://cdn.pixabay.com/photo/2017/03/05/20/06/baby-cat-2119695_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    },
+    {
+      "id": 4,
+      "type": "Quieto",
+      "name": "Juego 4",
+      "image": "https://cdn.pixabay.com/photo/2016/02/09/16/00/cat-1189813_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    },
+    {
+      "id": 5,
+      "type": "Memoria",
+      "name": "Juego 5",
+      "image": "https://cdn.pixabay.com/photo/2015/09/09/19/41/cat-932846_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    },
+    {
+      "id": 6,
+      "type": "Quieto",
+      "name": "Juego 6",
+      "image": "https://cdn.pixabay.com/photo/2020/03/08/13/37/cats-4912532_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": "lazy"
+    }
+  ],
+  "Comida": [
+    {
+      "id": 1,
+      "type": "Seco",
+      "name": "Alimento seco 1",
+      "image": "https://cdn.pixabay.com/photo/2020/01/26/22/03/cat-4796019_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Royal Canin",
+      "diet": "Indoor"
+    },
+    {
+      "id": 2,
+      "type": "Seco",
+      "name": "Alimento seco 2",
+      "image": "https://cdn.pixabay.com/photo/2017/03/24/08/27/cat-2170495_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Royal Canin",
+      "diet": "Indoor"
+    },
+    {
+      "id": 3,
+      "type": "Humedo",
+      "name": "Alimento humedo 1",
+      "image": "https://cdn.pixabay.com/photo/2018/03/10/21/42/british-shorthair-3215380_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    },
+    {
+      "id": 4,
+      "type": "Humedo",
+      "name": "Alimento humedo 2",
+      "image": "https://cdn.pixabay.com/photo/2018/06/14/13/03/cat-3474821_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    },
+    {
+      "id": 5,
+      "type": "Humedo",
+      "name": "Alimento humedo 3",
+      "image": "https://cdn.pixabay.com/photo/2022/01/06/19/26/cats-6920170_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    },
+    {
+      "id": 6,
+      "type": "Humedo",
+      "name": "Alimento humedo 4",
+      "image": "https://cdn.pixabay.com/photo/2014/11/22/14/54/cat-541723_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "Natural",
+      "diet": "Crudy"
+    }
+  ],
+  "Mimos": [
+    {
+      "id": 1,
+      "type": "",
+      "name": "Mimos 1",
+      "image": "https://cdn.pixabay.com/photo/2017/03/02/22/43/friendship-2112623_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 2,
+      "type": "",
+      "name": "Mimos 2",
+      "image": "https://cdn.pixabay.com/photo/2015/01/30/09/35/animals-617305_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 3,
+      "type": "",
+      "name": "Mimos 3",
+      "image": "https://cdn.pixabay.com/photo/2015/09/10/19/57/cat-934877_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 4,
+      "type": "",
+      "name": "Mimos 4",
+      "image": "https://cdn.pixabay.com/photo/2021/09/22/19/03/girl-6647719_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 5,
+      "type": "",
+      "name": "Mimos 5",
+      "image": "https://cdn.pixabay.com/photo/2019/11/26/21/01/cat-4655518_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    },
+    {
+      "id": 6,
+      "type": "",
+      "name": "Mimos 6",
+      "image": "https://cdn.pixabay.com/photo/2020/03/26/10/32/domestic-cat-4969978_960_720.jpg",
+      "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+      "brand": "",
+      "diet": ""
+    }
+  ]
+}
