@@ -1,5 +1,4 @@
-import { View, Text, SafeAreaView, Image, ScrollView, TouchableOpacity, ActivityIndicator } from "react-native";
-import React, { useEffect, useLayoutEffect, useState } from "react";
+import { View, Text, SafeAreaView, Image, ScrollView, TouchableOpacity, ActivityIndicator } from "react-native";import React, { useEffect, useLayoutEffect, useState } from "react";
 import { useNavigation } from "@react-navigation/native";
 import { Alimento, Avatar, Juego, Mimos, NoData } from "../assets";
 import MenuContainer from "../components/MenuContainer";
@@ -66,7 +65,14 @@ const Discover = () => {
               {mainData?.length > 0 ? (
                 <>
                   {mainData?.map((data, idx) => (
-                    <ItemCardContainer key={idx} imageSrc={data.image} title={data.name} type={data.type} iconType={type} data={data} />
+                    <ItemCardContainer
+                      key={idx}
+                      imageSrc={data?.image ? data?.image : "https://cdn.pixabay.com/photo/2016/03/17/06/49/renovation-1262389_960_720.png"}
+                      title={data.name}
+                      type={data.type}
+                      iconType={type}
+                      data={data}
+                    />
                   ))}
                 </>
               ) : (

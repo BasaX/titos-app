@@ -6,7 +6,45 @@
       "image": "https://cdn.pixabay.com/photo/2017/03/01/17/31/cat-2109166_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "Fatty"
+      "diet": "Fatty",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 2,
@@ -15,7 +53,45 @@
       "image": "https://cdn.pixabay.com/photo/2017/06/06/20/14/cat-2378311_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "Fatty"
+      "diet": "Fatty",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 3,
@@ -24,7 +100,45 @@
       "image": "https://cdn.pixabay.com/photo/2017/03/05/20/06/baby-cat-2119695_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "lazy"
+      "diet": "lazy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 4,
@@ -33,7 +147,45 @@
       "image": "https://cdn.pixabay.com/photo/2016/02/09/16/00/cat-1189813_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "lazy"
+      "diet": "lazy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 5,
@@ -42,7 +194,45 @@
       "image": "https://cdn.pixabay.com/photo/2015/09/09/19/41/cat-932846_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "lazy"
+      "diet": "lazy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 6,
@@ -51,7 +241,45 @@
       "image": "https://cdn.pixabay.com/photo/2020/03/08/13/37/cats-4912532_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": "lazy"
+      "diet": "lazy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     }
   ],
   "Comida": [
@@ -62,7 +290,45 @@
       "image": "https://cdn.pixabay.com/photo/2020/01/26/22/03/cat-4796019_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Royal Canin",
-      "diet": "Indoor"
+      "diet": "Indoor",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 2,
@@ -71,7 +337,45 @@
       "image": "https://cdn.pixabay.com/photo/2017/03/24/08/27/cat-2170495_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Royal Canin",
-      "diet": "Indoor"
+      "diet": "Indoor",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 3,
@@ -80,7 +384,45 @@
       "image": "https://cdn.pixabay.com/photo/2018/03/10/21/42/british-shorthair-3215380_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Natural",
-      "diet": "Crudy"
+      "diet": "Crudy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 4,
@@ -89,7 +431,45 @@
       "image": "https://cdn.pixabay.com/photo/2018/06/14/13/03/cat-3474821_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Natural",
-      "diet": "Crudy"
+      "diet": "Crudy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 5,
@@ -98,7 +478,45 @@
       "image": "https://cdn.pixabay.com/photo/2022/01/06/19/26/cats-6920170_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Natural",
-      "diet": "Crudy"
+      "diet": "Crudy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 6,
@@ -107,7 +525,45 @@
       "image": "https://cdn.pixabay.com/photo/2014/11/22/14/54/cat-541723_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "Natural",
-      "diet": "Crudy"
+      "diet": "Crudy",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     }
   ],
   "Mimos": [
@@ -118,7 +574,45 @@
       "image": "https://cdn.pixabay.com/photo/2017/03/02/22/43/friendship-2112623_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 2,
@@ -127,7 +621,45 @@
       "image": "https://cdn.pixabay.com/photo/2015/01/30/09/35/animals-617305_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 3,
@@ -136,7 +668,45 @@
       "image": "https://cdn.pixabay.com/photo/2015/09/10/19/57/cat-934877_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 4,
@@ -145,7 +715,45 @@
       "image": "https://cdn.pixabay.com/photo/2021/09/22/19/03/girl-6647719_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 5,
@@ -154,7 +762,45 @@
       "image": "https://cdn.pixabay.com/photo/2019/11/26/21/01/cat-4655518_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     },
     {
       "id": 6,
@@ -163,7 +809,45 @@
       "image": "https://cdn.pixabay.com/photo/2020/03/26/10/32/domestic-cat-4969978_960_720.jpg",
       "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
       "brand": "",
-      "diet": ""
+      "diet": "",
+      "races": [
+        {
+          "id": 1,
+          "key": 1,
+          "name": "raza 1",
+          "condicion": "normal"
+        },
+        {
+          "id": 2,
+          "key": 2,
+          "name": "raza 2",
+          "condicion": "normal"
+        },
+        {
+          "id": 3,
+          "key": 3,
+          "name": "raza 3",
+          "condicion": "normal"
+        },
+        {
+          "id": 4,
+          "key": 4,
+          "name": "raza 4",
+          "condicion": "normal"
+        },
+        {
+          "id": 5,
+          "key": 5,
+          "name": "raza 5",
+          "condicion": "normal"
+        },
+        {
+          "id": 6,
+          "key": 6,
+          "name": "raza 6",
+          "condicion": "normal"
+        }
+      ]
     }
   ]
 }
