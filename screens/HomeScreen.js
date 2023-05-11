@@ -1,16 +1,23 @@
 import { View, Text, SafeAreaView, Image, TouchableOpacity } from "react-native";import React, { useLayoutEffect } from "react";
 import * as Animatable from "react-native-animatable";
-import { useNavigation } from "@react-navigation/native";
 import { TitoHome } from "../assets";
+import { useAuth } from "../contexts/AuthContext";
+import { ROUTES } from "../constants";
 
-const HomeScreen = () => {
-  const navigation = useNavigation();
+const HomeScreen = (props) => {
+  const { navigation } = props;
+  const { login, currentUser } = useAuth();
 
   useLayoutEffect(() => {
     navigation.setOptions({
       headerShown: false,
     });
   }, []);
+
+  const handleLogin = async () => {
+    await login();
+    currentUser && navigation.navigate(ROUTES.DISCOVER_AUTH);
+  };
 
   return (
     <SafeAreaView className="bg-white flex-1 relative">
@@ -50,7 +57,7 @@ const HomeScreen = () => {
         />
 
         <TouchableOpacity
-          onPress={() => navigation.navigate("Discover")}
+          onPress={handleLogin}
           className="absolute bottom-20 w-24 h-24 border-l-2 border-r-2 border-t-4 border-[#00BCC9] rounded-full items-center justify-center"
         >
           <Animatable.View

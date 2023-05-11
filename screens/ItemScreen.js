@@ -1,8 +1,10 @@
-import { View, Text, SafeAreaView, ScrollView, Image, TouchableOpacity } from "react-native";import React, { useLayoutEffect } from "react";
+import { View, Text, SafeAreaView, ScrollView, Image, TouchableOpacity } from "react-native";
+import React, { useLayoutEffect } from "react";
 import { useNavigation } from "@react-navigation/native";
 import { Entypo } from "@expo/vector-icons";
 import { FontAwesome } from "@expo/vector-icons";
 import { MaterialIcons } from "@expo/vector-icons";
+import { ROUTES } from "../constants";
 
 const ItemScreen = ({ route }) => {
   const navigation = useNavigation();
@@ -27,7 +29,10 @@ const ItemScreen = ({ route }) => {
           />
 
           <View className="absolute flex-row inset-x-0 top-5 justify-between px-6">
-            <TouchableOpacity onPress={() => navigation.navigate("Discover")} className="w-10 h-10 rounded-md items-center justify-center bg-white">
+            <TouchableOpacity
+              onPress={() => navigation.navigate(ROUTES.DISCOVER_NAVIGATOR)}
+              className="w-10 h-10 rounded-md items-center justify-center bg-white"
+            >
               <Entypo name="chevron-left" size={24} color="#06B2BE" />
             </TouchableOpacity>
             <TouchableOpacity className="w-10 h-10 rounded-md items-center justify-center bg-[#06B2BE]">

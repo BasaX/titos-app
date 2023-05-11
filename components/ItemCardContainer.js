@@ -1,15 +1,17 @@
-import { View, Text, TouchableOpacity, Image } from "react-native";import React from "react";
+import { View, Text, TouchableOpacity, Image } from "react-native";
+import React from "react";
 import { MaterialCommunityIcons } from "@expo/vector-icons";
 import { Entypo } from "@expo/vector-icons";
 import { Ionicons } from "@expo/vector-icons";
 import { useNavigation } from "@react-navigation/native";
+import { ROUTES } from "../constants";
 
 const ItemCardContainer = ({ imageSrc, title, type, iconType, data }) => {
   const navigation = useNavigation();
 
   return (
     <TouchableOpacity
-      onPress={() => navigation.navigate("ItemScreen", { param: data })}
+      onPress={() => navigation.navigate(ROUTES.ITEM_SCREEN_NAVIGATOR, { param: data })}
       className="rounded-md border border-gray-300 space-y-2 px-3 py-2 shadow-md bg-white w-[182px] my-2"
     >
       <Image source={{ uri: imageSrc }} className="w-full h-40 rounded-md object-cover" />
